@@ -11,7 +11,7 @@
 
 🫡Here is my information pages:
 <br>
-[click to create a new link with pong]()
+[click to create a new link with pong](https://pongpong507.github.io)
 <br>
 ⁄(⁄ ⁄ ⁄ω⁄ ⁄ ⁄)⁄
 
