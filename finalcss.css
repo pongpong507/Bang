@@ -1,0 +1,42 @@
+body{
+  background-color: pink;
+}
+.cube {
+            height: auto;
+            width: auto;
+            margin: 0 auto;
+            background-color: lime;
+            animation-name: stretch;
+            animation-duration: 2.0s;
+            animation-timing-function: ease-out;
+            animation-direction: alternate;
+            animation-iteration-count: infinite;
+            animation-play-state: running;
+}
+
+@keyframes stretch {
+            0% {
+                transform: scale(.5);
+                background-color: green;
+                border-radius: 100%;
+                text-decoration-color: white;
+            }
+
+            50% {
+                background-color: orange;
+            }
+
+            100% {
+                transform: scale(2.0);
+                background-color: red;
+            }
+}
+
+img .pic :hover{
+  width: 30%;
+}
+
+h2{
+  color: white;
+  background-color: rgb(22,55,73,0.3);
+}
